@@ -18,4 +18,5 @@ Yes. Four steps have been applied to optimized the model to match 75% accuracy.
 5. Train with additional epochs, however, the convergence does not change too much after 100 iterations. 
 
 - If you were to implement a different model to solve this classification problem, which would you choose? Why?
+
 Random forest tree. Because the data is tabular and the random forest requires less coding and computation resources. 
