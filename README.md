@@ -37,7 +37,7 @@ Four steps have been applied to optimized the model to match 75% accuracy.
 4. Try the other activation function, but doesn't show significant improvement.
 5. Train with additional epochs, however, the convergence does not change too much after 100 iterations. 
 
-**Other models we have tried which has shown competence with the neuron network model.**
+**Other models we have tried which have shown competency with the neuron network model.**
 
 Random forest tree. Because the data is tabular and the random forest requires less coding and computation resources and runs faster than the neuron networks model, but the prediction accuracy is inferior. 
 
