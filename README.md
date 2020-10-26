@@ -27,6 +27,7 @@ Then we gradually add layers and more neurons, and the final selction is a trade
 
 ![Neuron network model](https://github.com/keyoumao/AlphabetSoup/blob/master/Capture.JPG)
 
+## Results and Discussion
 **Model calibration and steps to improve the model performance**
 
 Four steps have been applied to optimized the model to match 75% accuracy.
