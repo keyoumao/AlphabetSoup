@@ -1,5 +1,5 @@
 # AlphabetSoup
-Neuron Networks applied for successful prediction of the money usage.
+Neuron Networks applied for successful prediction of the AlphabetSoup's project money usage.
 
 ## Introduction
 
