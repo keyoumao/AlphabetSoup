@@ -23,7 +23,9 @@ Based on machine learning and neural network model building, we creatde a binary
 
 There are 54 inputs, 3 layers with 20 in the first layers, 10 in the second layer and 5 in the third layer. 
 In the beginning, two layers of 20 and 10 neurons, respespectively, have been applied, but the accuracy was only 50%.
-Then we gradually add layers and more neurons, and the final selction is a trade-off between the "too many" and "too few" neurons. Three layers are good for general scenarios. 
+Then we gradually add layers and more neurons, and the final selction is a trade-off between the "too many" and "too few" neurons. Three layers are good for general scenarios. The trained model is given as follows.
+
+![Neuron network model](https://github.com/keyoumao/AlphabetSoup/blob/master/Capture.JPG)
 
 **Model calibration and steps to improve the model performance**
 
